@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Admn/IdeaProjects/IndividualProject/src/test/java/org/B_HurtMePlenty/HurtMePlentyTest.java">
+        <groups>
+            <run>
+                <include name="smoke"></include>
+                <include name="functional"></include>
+            </run>
+        </groups>
+        <classes>
+            <class name="org.B_HurtMePlenty.HurtMePlentyTest"></class>
+        </classes>
+    </test>
+</suite>
